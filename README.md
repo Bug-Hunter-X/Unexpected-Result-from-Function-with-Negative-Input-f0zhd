@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Swift functions: unexpected behavior when negative numbers are inputted as parameters. The bug.swift file shows the initial flawed function which does not handle this case correctly and causes an unexpected output. The bugSolution.swift file then shows how to properly handle this situation.
